@@ -13,12 +13,6 @@
 [![photo](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/assets/77391690/cbc8698c-7e3c-4ff2-b2ed-4bccae1e6251?raw=true)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
 > 效果图的版本可能不是当前最新兼容的
 
-**支持的clash版本:**
-
-[0.15.3](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW-V0.15.3_CN-V4)
-~
-[当前的最新兼容](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/latest)
-
 **基本特征&介绍:**
 
 * 使用安装程序(Clash.for.Windows.Setup. ** . ** . ** .exe)安装的汉化版CFW将劫持更新，之后可直接通过应用内置的更新方式进行汉化版/软件更新
